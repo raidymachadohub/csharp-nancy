@@ -74,6 +74,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="localhost.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
